@@ -1,0 +1,35 @@
+.cell {
+    width: 20px;
+    height: 20px;
+    border: 1px solid black;
+    background-image: url('sprite.png');
+    background-position: 0px 0px;
+  }
+  
+  .flag {
+    background-position: -20px 0px;
+  }
+  
+  .mine {
+    background-position: -40px 0px;
+  }
+  
+  .checkbox {
+    background-position: -60px 0px;
+  }
+  
+  .scared {
+    background-position: -80px 0px;
+  }
+  
+  .sad {
+    background-position: -100px 0px;
+  }
+  
+  .status {
+    width: 16px;
+    height: 16px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: #e0e0e0;
+  }
